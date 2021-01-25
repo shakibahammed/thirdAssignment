@@ -70,7 +70,7 @@ function megaFriend (myFriends){
 
      for (var i=0 ; i < myFriends.length ; i++ ) {
            
-          if ( myfriend[i].length > penFriend.length)   {
+          if ( myFriend[i].length > penFriend.length)   {
 
                penFriend = myFriends[i]
           }
